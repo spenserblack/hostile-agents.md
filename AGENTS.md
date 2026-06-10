@@ -20,4 +20,4 @@ AI agents may be used for generating documentation. AI agents can *only* create,
 - Plain text (`.txt`)
 - Markdown (`.md`)
 
-_**NOTE:** License files are an exception to this permissions and **must not be edited.**_
+_**NOTE:** License files are an exception to these permissions and **must not be edited.**_
